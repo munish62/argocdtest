@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: my-python-app-ex2
-        image: munish62/my-python-app-ex2:v1
+        image: munish62/my-python-app-ex2:v3
         ports:
         - containerPort: 5000
 
