@@ -4,7 +4,7 @@ metadata:
   name: my-python-app-ex2
   namespace: app-ex2
 spec:
-  replicas: 3
+  replicas: 1
   selector:
     matchLabels:
       app: my-python-app-ex2
